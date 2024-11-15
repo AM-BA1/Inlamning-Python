@@ -1,14 +1,1 @@
-[
-  {
-    "id": 123,
-    "description": "Buy milk, eggs and bread",
-    "category": "Shopping",
-    "status": "pending"
-  },
-  {
-    "id": 124,
-    "description": "Empty Dishwasher",
-    "category": "Cleaning",
-    "status": "pending"
-  }
-]
+[{"id": 123, "description": "Buy milk, eggs and bread", "category": "Shopping", "status": "pending"}, {"id": 124, "description": "Empty Dishwasher", "category": "Cleaning", "status": "pending"}, {"id": 125, "description": "Take out the garbage", "category": "Trash", "status": "pending"}, {"id": 126, "description": "Take out the trash", "category": "Trash", "status": "complete"}, {"id": 127, "description": "Wash T-shirts", "category": "Cleaning", "status": "pending"}]
